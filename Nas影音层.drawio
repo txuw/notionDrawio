@@ -1,9 +1,48 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.8">
   <diagram name="第 1 页" id="7AKhhSKEIhID0tw-IINV">
-    <mxGraphModel dx="984" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="984" dy="1723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eFxX7WrcP5hh-u6VmYXd-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-10" width="360" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxX7WrcP5hh-u6VmYXd-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eFxX7WrcP5hh-u6VmYXd-2" target="eFxX7WrcP5hh-u6VmYXd-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxX7WrcP5hh-u6VmYXd-2" value="Nas下载层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="340" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxX7WrcP5hh-u6VmYXd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eFxX7WrcP5hh-u6VmYXd-3" target="eFxX7WrcP5hh-u6VmYXd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxX7WrcP5hh-u6VmYXd-3" value="/data/source" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="270" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxX7WrcP5hh-u6VmYXd-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eFxX7WrcP5hh-u6VmYXd-4" target="eFxX7WrcP5hh-u6VmYXd-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxX7WrcP5hh-u6VmYXd-4" value="Hlink 硬链接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="200" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxX7WrcP5hh-u6VmYXd-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eFxX7WrcP5hh-u6VmYXd-5" target="eFxX7WrcP5hh-u6VmYXd-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxX7WrcP5hh-u6VmYXd-5" value="/data/target" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="130" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxX7WrcP5hh-u6VmYXd-11" value="飞牛影视" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="-10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxX7WrcP5hh-u6VmYXd-12" value="自动刮削" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="25" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxX7WrcP5hh-u6VmYXd-13" value="自动识别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="369" y="25" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eFxX7WrcP5hh-u6VmYXd-14" value="权限管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="25" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
